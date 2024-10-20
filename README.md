@@ -1,4 +1,4 @@
-Customer_Segmentation
+Customer Segmentation Project Using Machine Learning
 
 Project Overview:
 
